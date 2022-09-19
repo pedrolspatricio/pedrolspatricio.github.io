@@ -25,7 +25,10 @@ h1{
 .header-content{
     margin-top: 30px;
     margin-bottom: 30px;
-    float: right;  
+}
+
+.image-container{
+    height:235px;
 }
 
 #header-image{

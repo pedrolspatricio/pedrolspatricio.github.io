@@ -41,6 +41,10 @@ h1{
     margin-top: 80px;
 }
 
+.links{
+    color: yellow;
+}
+
 ul li:nth-child(odd) {
     background-color: grey;
 }

@@ -1,12 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: #313E50;
     color: whitesmoke;
+    padding: 3%;;
 }
 
 h1{
     text-align: center;
 }
 
-img{
+#description{
+    font-size: larger;
+    width: 80%;
+    margin: auto;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+.header-content{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float: right;  
+}
+
+#header-image{
+    background-color: whitesmoke;
+    float: right;
+    padding:15px;
+}
+
+#header-text{
+    float: left;
+    width: 70%;
     text-align: center;
+    margin-top: 80px;
+}
+
+ul li:nth-child(odd) {
+    background-color: grey;
 }
